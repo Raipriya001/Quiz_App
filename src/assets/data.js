@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question: "Identify the one which is used to pass data to components from outside.",
+        option1: "Render with arguments",
+        option2: "setState",
+        option3: "PropTypes",
+        option4: "props",
+        ans: 4,
+    },
+    {
+        question: "Identify the command used to create a react app",
+        option1: "npm install create-react-app",
+        option2: "npm install-g create-react-app",
+        option3: "install-g create-react-app",
+        option4: "None of the above",
+        ans: 2,
+    },
+    {
+        question: "A state in React.js is also known as?",
+        option1: "The internal storage of the component",
+        option2: "External storage of the component",
+        option3: "Permanent storage",
+        option4: "All of the above",
+        ans: 1,
+    },
+    {
+        question: "Which of the following method is used to access the state of a component from inside of a member function?",
+        option1: "this.prototype.state Value",
+        option2: "this.getState()",
+        option3: "this.values",
+        option4: "this.state",
+        ans: 3,
+    },
+    {
+        question: "what are arbitary inputs of compoenents in react also known as?",
+        option1: "Elements",
+        option2: "Props",
+        option3: "Keys",
+        option4: "Ref",
+        ans: 2,
+    },
+]
